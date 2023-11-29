@@ -22,24 +22,15 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ 👇</b>"""
     PONG_TXT = """Cʜᴇᴄᴋ Mʏ Pɪɴɢ Bʏ Cʟɪᴄᴋɪɴɢ 👉 /ping"""
 
     ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Tamilanz_Auto_Filter_Bot>ᴍᴏᴠɪᴇs ғɪʟᴛᴇʀ ʙᴏᴛ</a>
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/Sharathitsisme>sʜᴀʀᴀᴛʜ</a>
+👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/JAsuran2p0>Asuran</a>
 📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3
-📡 ʜᴏsᴛᴇᴅ ᴏɴ : ғʀᴇᴇ ʜᴏsᴛɪɴɢ
-📢 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href=https://t.me/TamilanMoviesChat>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
-🌟 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ : <a href=https://github.com/TamilanBotsZ/PremiumFilter>ʀᴇᴩᴏ ʟɪɴᴋ</a></b>"""
+📡 ʜᴏsᴛᴇᴅ ᴏɴ : Heroku [Paid] (Render Ban Accounts)
+📢 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href=https://t.me/Asuranmoviefinder1>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>"""
 
-    SOURCES_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @Tamilan_BotsZ
+    SOURCES_TXT = """Hi"""
 
-- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/SharathItsIsme>sʜᴀʀᴀᴛʜ</a>
-
-- & Rᴇᴩᴏ Lɪɴᴋ 👇 Hᴇʀᴇ"""
-
-    SOURCE_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @Tamilan_BotsZ</b>
-
-- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/SharathItsIsme>sʜᴀʀᴀᴛʜ</a></b>
-
-- Rᴇᴩᴏ Lɪɴᴋ 👇 Hᴇʀᴇ"""
+    SOURCE_TXT = """Hello"""
 
     FONT_TXT = """I Cᴀɴ Gᴇɴᴇʀᴀᴛᴇ Aᴛᴛʀᴀᴄᴛɪᴠᴇ Fᴏɴᴛs Fᴏʀ Yᴏᴜʀ Tᴇxᴛ Sᴇɴᴅ Lɪᴋᴇ Tʜɪs 👇
 
@@ -67,13 +58,13 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ 👇</b>"""
 
     MANUELFILTER_TXT = """<b>Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ Mᴏᴠɪᴇs / Sᴇʀɪᴇs Usɪɴɢ Tʜɪs Bᴏᴛ</b> 😌 🔋
 
-<b>Fɪʀsᴛ Jᴏɪɴ Tʜɪs Gʀᴏᴜᴩ » @TamilanMoviesChat</b>
+<b>Fɪʀsᴛ Jᴏɪɴ Tʜɪs Gʀᴏᴜᴩ » @Asuranmoviefinder1</b>
 
 <b>Sᴇɴᴅ Yᴏᴜ Wᴀɴᴛ Mᴏᴠɪᴇs Oʀ Sᴇʀɪᴇs Nᴀᴍᴇ Wɪᴛʜ Cᴏʀʀᴇᴄᴛ Sᴩᴇʟʟɪɴɢ</b>
 
 <b>Aɴᴅ Bᴏᴛ Wɪʟʟ Sᴇɴᴅ Yᴏᴜ Asᴋᴇᴅ Fɪʟᴇ</b>
 
-<b>Hᴏᴡ Tᴏ Oᴩᴇɴ Bᴏᴛ Sᴇɴᴅᴇᴅ Fɪʟᴇ Lɪɴᴋ. » <a href=https://t.me/Sharath_Links/13>ᴛᴜᴛᴏʀɪᴀʟ</a>.﹤/b>"""
+<b>Hᴏᴡ Tᴏ Oᴩᴇɴ Bᴏᴛ Sᴇɴᴅᴇᴅ Fɪʟᴇ Lɪɴᴋ. » <a href=https://t.me/demoshort>ᴛᴜᴛᴏʀɪᴀʟ</a>.﹤/b>"""
 
     CONTACT_TXT = """<b>
 <b>»» ° Oɴʟʏ Cᴏɴᴛᴀᴄᴛ Fᴏʀ Pᴀɪᴅ Wᴏʀᴋs / Pʀᴏʙʟᴇᴍ / Dᴏᴜʙᴛ / Cᴏʟʟᴀʙ / Hᴇʟᴩ °</b>
