@@ -1,7 +1,7 @@
 asyncio
 pyrogram>=2.0.30
 tgcrypto
-pymongo==4.4.1
+pymongo
 motor==3.0.0
 marshmallow==3.14.1
 umongo==3.0.1
